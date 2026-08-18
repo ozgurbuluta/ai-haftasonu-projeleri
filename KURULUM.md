@@ -37,7 +37,7 @@ Yeni hesaplara genellikle $5 ücretsiz kredi veriliyor. Bu projeler için fazlas
 ## 3. Projeyi İndir
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/ai-haftasonu-projeleri.git
+git clone https://github.com/ozgurbuluta/ai-haftasonu-projeleri.git
 cd ai-haftasonu-projeleri
 ```
 
